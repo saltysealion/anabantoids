@@ -4,37 +4,22 @@
     <title>Cá đá</title>
     <description>Wild Bettas
 </description>
-    <link>http://saltysealion.github.io/anabantoids/</link>
-    <atom:link href="http://saltysealion.github.io/anabantoids/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 May 2016 13:14:48 +1000</pubDate>
-    <lastBuildDate>Tue, 03 May 2016 13:14:48 +1000</lastBuildDate>
+    <link>http://saltysealion.githuddb.io/anabantoids/</link>
+    <atom:link href="http://saltysealion.githuddb.io/anabantoids/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 May 2016 13:24:58 +1000</pubDate>
+    <lastBuildDate>Tue, 03 May 2016 13:24:58 +1000</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+        <title>Ca Da, a blog about keeping Wild Bettas</title>
+        <description>&lt;p&gt;I have always kept fish and kept many Betta Splendid in the past. However this year, I have decided to try keeping the wild variants. When I first saw these fish, I did not think much of them, actually they are quite dull and unattractive at first. Over time I have warmed up towards them and found them to be very beautiful and rewarding.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 May 2016 12:57:07 +1000</pubDate>
-        <link>http://saltysealion.github.io/anabantoids/jekyll/update/2016/05/03/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://saltysealion.github.io/anabantoids/jekyll/update/2016/05/03/welcome-to-jekyll.html</guid>
+        <link>http://saltysealion.githuddb.io/anabantoids/fish/2016/05/03/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://saltysealion.githuddb.io/anabantoids/fish/2016/05/03/welcome-to-jekyll.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>fish</category>
         
       </item>
     

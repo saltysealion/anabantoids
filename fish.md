@@ -6,7 +6,7 @@ permalink: /fish/
 
 The fighting fish genus Betta comprises more than 65 species distributed in South-East Asia. Of these 65, I own 6 different species!
 
-## H2 Betta hendra spec.
+## Betta hendra spec.
 ![Betta hendra]({{ site.url }}/images/hendra/1.jpg)
 
 My favorite species in coccina complex. Most fish within this complex come in deep wine red colouration but this particular fish sports iridescent green/blue scales. 

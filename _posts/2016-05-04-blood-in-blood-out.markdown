@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Blood in, blood out"
+date:   2016-05-04 13:00:00 +1000
+categories: fish spawn death
+---
+
+Lets start with the sad news, my female Betta albimarginata has died. She has
+not been well over the past few days so I separated her from her male. She
+continued to feed well on black worms but had a swimming disorder. Last night,
+instead of floating she sunk and looked extremly lifeless. This morning she was
+found dead.
+
+It's fustrating knowing that this is the last wild female I can get my hands on
+given the new laws in Australia that prevent further importation of this fish.
+
+Onto the good news. This morning, I discovered that the hendra eggs have
+hatched! The male hendra is doing a great job of looking after his nest. I can
+see the film canister float up more towards the back as the number of bubbles
+hes squeezing in increases. He's also doing a good job at guarding his nest,
+chasing the female away when she approaches. I am looking forwards to seeing the
+little critters become free swimmers!
+
+Plants plants plants. I am trying to jam more and more plants into the aquariums
+Apart from my fondness of plants, I am also relying on them to absorb the
+neutirnets floating around before they reach harmful levels. So far I am relying
+on duck weed to do the exporting of neutirents but I have more Bucephalandra to add to the tanks. I am thinking that the Bucephalandra would do
+good with shaded light from the duck weed. I just hope that they can with stand
+the low PH. So far I am seeing good growth on my existing Bucephalandra, time
+will tell how this goes.

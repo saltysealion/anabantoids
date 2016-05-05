@@ -21,6 +21,8 @@ hes squeezing in increases. He's also doing a good job at guarding his nest,
 chasing the female away when she approaches. I am looking forwards to seeing the
 little critters become free swimmers!
 
+![Bucephalandra]({{ site.url }}{{ site.baseurl }}/images/misc/buce.jpg)
+
 Plants plants plants. I am trying to jam more and more plants into the aquariums
 Apart from my fondness of plants, I am also relying on them to absorb the
 neutirnets floating around before they reach harmful levels. So far I am relying

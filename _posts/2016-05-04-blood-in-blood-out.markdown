@@ -3,6 +3,7 @@ layout: post
 title:  "Blood in, blood out"
 date:   2016-05-04 13:00:00 +1000
 categories: fish spawn death
+icon: "/images/icon/fish.jpg"
 ---
 
 Lets start with the sad news, my female Betta albimarginata has died. She has

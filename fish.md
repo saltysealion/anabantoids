@@ -11,7 +11,7 @@ The fighting fish genus Betta comprises more than 65 species distributed in Sout
 ### Location
 Unknown
 
-A great little mouth brooder with a white rimmed fins. I have had this pair spawn once and the male successfully spit 15 fry. However, the male hunted down his own and the Female has passed away so I am unable to continue with this species.
+A great little mouth brooder with a white rimmed fins. I have had this pair spawn once and the male successfully spat 15 fry. However, the male hunted down his own and the female has passed away so I am unable to continue with this species.
 
 ### Spawns
 1. 15/4/2016

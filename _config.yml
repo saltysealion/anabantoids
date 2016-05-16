@@ -17,3 +17,6 @@ github_username:  saltysealion
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap

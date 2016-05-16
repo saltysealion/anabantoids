@@ -4,7 +4,7 @@ title:  "Big Mac aka Betta macrostoma"
 date:   2016-05-08 13:00:00 +1000
 categories: macrostoma hendra 
 icon: "/images/icon/fish.jpg"
-cover_photo: "/images/macrostoma/macrostoma.JPG"
+cover_photo: "/images/macrostoma/macrostoma.jpg"
 ---
 
 Lots of things have been happening in the fish room since my last post.

@@ -14,6 +14,7 @@ baseurl: "/anabantoids" # the subpath of your site, e.g. /blog
 url: "http://saltysealion.github.io" # the base hostname & protocol for your site
 twitter_username: saltysealion
 github_username:  saltysealion
+timezone: Australia/Sydney
 
 # Build settings
 markdown: kramdown
